@@ -1,0 +1,81 @@
+h3{
+ color:white;
+ text-align:center;
+ 
+}
+body{
+    background-image:url(img/1.jpg);	
+	weght:1000px;
+	height:2000px;
+	border:2px dashed #18B7E8;
+	
+}	
+	
+img{
+	border:2px solid black;
+	opacity:0.5;
+	align_text:center;
+	border-radius:15px;
+	weight:250px;
+}
+
+
+
+img:hover{
+  opacity: 1;	
+	
+}
+
+h1{ 
+  text-align:center;	
+ 	
+
+}
+h4{
+  color:#22D141;
+  text-align:center;
+
+
+}
+
+h2{
+color:white;
+
+
+
+
+
+}
+#abc{
+	color:#22D141;
+	
+}
+
+a{
+	color:black;
+	background-color:#EBE2CC;
+    border:1px solid #ABA1A1;	
+	text-align:center;
+}
+ 
+ a:hover{
+	 color:blue;
+	 
+ }
+
+img:active{
+	height:800px;
+	weight:800px;
+	
+}
+
+a:active{
+  color:green;	
+	
+}
+#abd{
+	color:white;
+}
+
+
+	
